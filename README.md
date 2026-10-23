@@ -30,11 +30,11 @@ The project also defines sign-based suggestions, such as stopping, yielding, or 
 
 The recorded validation performance was high, but recall declined to **60.75%** on the external test images, indicating difficulty detecting some signs beyond the validation dataset. The study is limited to the five selected sign classes.
 
-*The figures above are from the project's saved evaluation records; they are not new measurements.*
-
 ## Dataset
 
-The training and validation images originated from a **Roboflow** traffic-sign dataset. A **Road Signs dataset** was used for external testing. Original dataset files are not redistributed here; exact dataset versions and source links should be added once verified.
+The training and validation images originated from a **Roboflow** traffic-sign dataset. A **Road Signs dataset** was used for external testing. Original dataset files are not redistributed here; exact dataset versions and source links are available at: 
+- Traffic Sign Detection Yolo. (n.d.). Road Sign detection (Version 10) [Data set]. Roboflow Universe. https://universe.roboflow.com/traffic-sign-detection-yolo/road-sign-detection-1hjrr/dataset/10 
+- Roboflow Universe. (n.d.). Traffic and Road Signs (Version 1) [Data set]. https://universe.roboflow.com/usmanchaudhry622-gmail-com/traffic-and-road-signs/dataset/1
 
 ## Video Demonstration
 
