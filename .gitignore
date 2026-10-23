@@ -1,0 +1,35 @@
+# Virtual environments and Python/Jupyter caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Secrets and private data
+.env
+.env.*
+*.pem
+*.key
+*.db
+*.sqlite*
+
+# Unreviewed image datasets and model artifacts
+data/
+dataset/
+datasets/
+weights/
+*.pt
+*.pth
+*.onnx
+*.npz
+*.npy
+*.pkl
+
+# Training and evaluation outputs that have not been reviewed
+outputs/
+runs/
+*.log
+
+# Do not ignore all image formats: approved screenshots may be added later

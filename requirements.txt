@@ -1,0 +1,15 @@
+# Existing project pins retained; IPython is made explicit for the notebook import. Compatibility not retested.
+ultralytics==8.3.130
+torch==2.5.1
+torchvision==0.20.1
+numpy==1.26.4
+opencv-python==4.11.0.86
+Pillow==11.2.1
+matplotlib==3.10.3
+pandas
+PyYAML
+notebook
+nbformat
+nbclient
+ipykernel
+ipython
